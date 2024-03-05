@@ -2,6 +2,7 @@
 .NameTitleContainer {
 	background-color: lightgray;
 	padding:8px;
+	border: 2px solid black;
 }
 
 .NameSubtitle {
@@ -21,7 +22,8 @@
   margin-left: 15px;
   float: right;
   background-color: lightgray;
-  height:50%
+  height:50%;
+  border: 2px solid black;
 }
 
 .heading {
