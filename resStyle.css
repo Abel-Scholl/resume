@@ -45,3 +45,11 @@ span {
 	font-size:15px;
 
 }
+
+.ExperienceContianer ul, .CertContainer ul, .ExpListTimeLoc {
+	margin-top:-10px;
+}
+
+li #ct {
+	font-weight:bold;
+}
