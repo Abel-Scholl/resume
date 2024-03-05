@@ -1,0 +1,47 @@
+
+.NameTitleContainer {
+	background-color: lightgray;
+	padding:8px;
+}
+
+.NameSubtitle {
+	margin-top:-15px;
+}
+
+.pageContainer {
+	width:2480px;
+	height:3508px;
+	max-width:2480px;
+	max-height:3508px;
+}
+
+.sideContainer {
+  width: 40%;
+  padding: 15px;
+  margin-left: 15px;
+  float: right;
+  background-color: lightgray;
+  height:50%
+}
+
+.heading {
+	font-size: 20px;
+	margin:5px;
+	text-decoration:underline;
+	font-weight:bold;
+	margin-bottom:-5px;
+}
+
+.SummaryContainer, .ExperienceContianer, .EduContainer, .CertContainer {
+	margin-bottom:20px;
+}
+
+span {
+	font-size: 18px;
+	font-style:italic;
+}
+
+.ExpItemResponsibilities, .EduDescription {
+	font-size:15px;
+
+}
